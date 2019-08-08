@@ -8,4 +8,8 @@ public class BookDAO {
         books.add(book);
         System.out.println("Book added to the list.");
     }
+
+    public List<Book> getBooks() {
+        return books;
+    }
 }
