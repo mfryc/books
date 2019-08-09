@@ -8,5 +8,13 @@
     <artifactId>books</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>Books Application</name>
+    <url>http://books.pl</url>
+    <description>An application that collects information about your books</description>
+    <packaging>pom</packaging>
+    <modules>
+        <module>books-application</module>
+        <module>books-domain</module>
+    </modules>
 
 </project>
