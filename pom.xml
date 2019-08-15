@@ -15,6 +15,7 @@
     <modules>
         <module>books-application</module>
         <module>books-domain</module>
+        <module>books-webapp</module>
     </modules>
 
 </project>
